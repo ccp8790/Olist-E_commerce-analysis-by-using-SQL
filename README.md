@@ -84,3 +84,15 @@ Step 5: Change the TEXT data type to VARCHAR(255) data type for quickly analysis
 Step 6: Limit rows for each query
 
 
+
+
+
+### Visualization and Analysis
+
+<img width="901" alt="Screenshot 2024-01-14 at 1 09 46 PM" src="https://github.com/ccp8790/Olist-E_commerce-analysis-by-using-SQL/assets/119828359/77869277-2a3a-4c85-8966-d403bfdf512f">
+
+From 2016 to 2018, the total revenue, total seller number, and total order numbers are keep increasing, but the increasing speed from 2017 to 2018 is getting lower than 2016 to 2017.
+There are few possible reasons: the outside competitors, getting to the plateau period, and the platform service is not attracting than before.
+we can understand from the seller revenue efficiency graph.
+<img width="901" alt="Screenshot 2024-01-14 at 1 09 46 PM" src="https://github.com/ccp8790/Olist-E_commerce-analysis-by-using-SQL/assets/119828359/77869277-2a3a-4c85-8966-d403bfdf512f">
+
