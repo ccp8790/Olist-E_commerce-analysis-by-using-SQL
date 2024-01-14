@@ -89,10 +89,11 @@ Step 6: Limit rows for each query
 
 ### Visualization and Analysis
 
-<img width="901" alt="Screenshot 2024-01-14 at 1 09 46 PM" src="https://github.com/ccp8790/Olist-E_commerce-analysis-by-using-SQL/assets/119828359/77869277-2a3a-4c85-8966-d403bfdf512f">
+<img width="909" alt="Screenshot 2024-01-14 at 1 08 54 PM" src="https://github.com/ccp8790/Olist-E_commerce-analysis-by-using-SQL/assets/119828359/64db0ba1-0078-44bb-b5f3-ce29961918a9">
 
 From 2016 to 2018, the total revenue, total seller number, and total order numbers are keep increasing, but the increasing speed from 2017 to 2018 is getting lower than 2016 to 2017.
 There are few possible reasons: the outside competitors, getting to the plateau period, and the platform service is not attracting than before.
 we can understand from the seller revenue efficiency graph.
-<img width="901" alt="Screenshot 2024-01-14 at 1 09 46 PM" src="https://github.com/ccp8790/Olist-E_commerce-analysis-by-using-SQL/assets/119828359/77869277-2a3a-4c85-8966-d403bfdf512f">
+
+<img width="900" alt="Screenshot 2024-01-14 at 1 09 25 PM" src="https://github.com/ccp8790/Olist-E_commerce-analysis-by-using-SQL/assets/119828359/0f20b204-a3d3-4124-adfc-71256b92a370">
 
